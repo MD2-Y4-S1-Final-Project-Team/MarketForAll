@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="NoAppTitle" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="AppDialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
 </resources>
